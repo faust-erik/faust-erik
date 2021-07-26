@@ -1,14 +1,6 @@
 - 👋 Hi, I’m @faust-erik
 - 👀 I’m interested in ...
-engineering simulation, including
-   FE 
-   MBS
-   LBM
-optimisation, including
-  applied optimisation
-  constrained optimisations
-  global optimisation
-  Benchmarking
+engineering simulation, optimisation
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 an optimisation toolbox (coming soon!)
