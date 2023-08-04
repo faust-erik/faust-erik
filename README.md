@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @faust-erik
 - 👀 I’m interested in ...
-solid simulations (FE, LBM, FD), multibody dynamics simulations (MBS), optimisation (nonlinear, constrained, multiobjective)
-- 🌱 I’m currently learning ...
-python and chinese
+solid simulations, nonlinear model reduction/manifold learning, multiscale (solid) mechanics, optimisation
 - 💞️ I’m looking to collaborate on ...
-an optimisation toolbox (coming soon!)
+nonlinear model reduction in solid mechanics, a python/julia FEM toobox, a MATLAB optimisation toolbox
 - 📫 How to reach me ...
-faust.erik@gmail.com
+erik.faust@mv.rptu.de
 
 <!---
 faust-erik/faust-erik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
